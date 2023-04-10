@@ -1,9 +1,9 @@
 # Flagship with a Cart Demo App (React.js) + MixPanel Integration
 
 ## Technology and Specs
-Stack: React.js
-Flagship via React SDK v3.1.2
-MixPanel via Mixpanel-browser v2.46.0
+- Stack: React.js
+- Flagship: React SDK v3.1.2
+- 3rd Party Integrations: MixPanel via Mixpanel-browser v2.46.0
 
 ## Objective
 The objective of this project is to serve as a standard demo for anyone trying to find an example of Flagship Implementation on a React.js project with all the best practises and solutions depicted.  
