@@ -1,4 +1,4 @@
-# Implementing Flagship on a Cart Demo App (React.js) + MixPanel Integration
+# Flagship with a Cart Demo App (React.js) + MixPanel Integration
 
 ## Technology and Specs
 Stack: React.js
